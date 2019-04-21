@@ -1,2 +1,2 @@
 # MatPlotLib
-This has my UCB Homework
+Ride-Sharing Data Analysis carried out in Jupyter Notebook using MatPlotLib
